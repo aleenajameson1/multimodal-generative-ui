@@ -1,0 +1,21 @@
+# Sprout — Generative UI Studio
+# Install with: pip install -r requirements.txt
+
+# Core framework
+streamlit>=1.35.0
+
+# OpenAI API
+openai>=1.30.0
+
+# Data processing
+pandas>=2.0.0
+
+# Charts
+plotly>=5.20.0
+
+# PDF parsing (pdfplumber primary, PyPDF2 fallback)
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
